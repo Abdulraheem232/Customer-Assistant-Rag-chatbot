@@ -227,6 +227,8 @@ This chatbot is specifically designed for SmartFinder.Store customer support:
 - **Return/Refund Process**: Guide customers through return procedures
 - **Warranty Information**: Answer warranty and service questions
 
+  An Plz click the star button if you like this repository It motivates me to make more projects for you guys
+
 Visit [SmartFinder.Store](https://smartfinder.store) to see the chatbot in action!
 
 ---
